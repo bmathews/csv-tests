@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    fastest-csv (0.0.4)
+    rcsv (0.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fastest-csv
+  rcsv
+
+BUNDLED WITH
+   1.10.6
